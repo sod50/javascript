@@ -1,0 +1,2 @@
+var name = sod;
+console.log("this is my name" + " " + name);
